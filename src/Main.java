@@ -19,7 +19,7 @@ class Student {
         }
     }
     void read(){
-        System.out.print("我是 "+name+",今年 "+age);
+        System.out.print("我是 "+name+",今年 了"+age);
     }
 }
 public class Main {
